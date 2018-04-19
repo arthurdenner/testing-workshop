@@ -124,6 +124,7 @@ test('manual "snapshot"', () => {
   expect(flyingHeros).toEqual([
     {name: 'Dynaguy', powers: ['disintegration ray', 'fly']},
     {name: 'Apogee', powers: ['gravity control', 'fly']},
+    {name: 'Jack-Jack', powers: ['shapeshifting', 'fly']},
   ])
 })
 

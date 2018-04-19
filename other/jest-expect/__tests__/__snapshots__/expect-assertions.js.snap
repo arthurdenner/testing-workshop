@@ -16,6 +16,13 @@ Array [
       "fly",
     ],
   },
+  Object {
+    "name": "Jack-Jack",
+    "powers": Array [
+      "shapeshifting",
+      "fly",
+    ],
+  },
 ]
 `;
 
